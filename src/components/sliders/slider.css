@@ -1,0 +1,23 @@
+.sliderOne{
+    background-image: url('./../../assets/image/banner/banner1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.sliderTow{
+    background-image: url('./../../assets/image/banner/banner2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.sliderThree{
+     background-image: url('./../../assets/image/banner/banner3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.sliderFour{
+    background-image: url('./../../assets/image/banner/banner4.jpg');
+    background-size: cover;
+    background-position: top;
+}

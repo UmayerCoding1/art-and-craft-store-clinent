@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+margin:0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+list-style: none;
+font-family: "Outfit", system-ui;
+}
+html,body{
+height: 100%;
+width: 100%;
+}
+a.active
+{border: 1.5px solid #000; border-radius: 10px; padding:4px;}
+
+.register{
+    background-image: url('./assets/image/redinter-bg.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.swiper {
+    width: 100%;
+  }
+  .swiper-slide {
+    height: 300px;
+    background: #882525;
+    line-height: 300px;
+    text-align: center;
+  }
+
+  
